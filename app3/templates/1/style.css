@@ -14,21 +14,21 @@
 }
 
 #outside-title {
-  color: blue;
-  font-family: Comic Sans MS;
-  font-size: 22pt;
+  color: black;
+  font-family: Courier;
+  font-size: 24pt;
   text-align: center;
 }
 
 #outside-pic {
-  width: 550px;
+  width: 500px;
   height: 250px;
 }
 
 #outside-help {
   color: black;
   font-family: Courier;
-  font-size: 12pt;
+  font-size: 24pt;
   text-align: center;
   padding: 20px;
 }
@@ -36,28 +36,29 @@
 #inside {
   z-index: 0;
   position: absolute;
-  background-color: yellow;
+  background-color: grey;
+  color: red;
   width: 100%;
   height: 100%;
   text-align: center;
 }
 
 #inside-title {
-  color: blue;
-  font-family: Comic Sans MS;
-  font-size: 22pt;
+  color: black;
+  font-family: Arial;
+  font-size: 24pt;
   text-align: center;
 }
 
 #inside-pic {
-  width: 550px;
+  width: 500px;
   height: 250px;
 }
 
 #message {
   color: black;
   font-family: Courier;
-  font-size: 22pt;
+  font-size: 24pt;
   text-align: center;
 }
 

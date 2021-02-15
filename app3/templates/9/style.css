@@ -11,7 +11,7 @@ html {
   width: 100%;
   height: 50%;
   background: lightblue;
-  animation: sky 10s infinite;  
+  animation: sky 10s infinite;
 }
 @keyframes sky {
     0% {background: black;}
@@ -20,7 +20,7 @@ html {
     100% {background: black;}
 }
 
-#sun {  
+#sun {
   height: 100px;
   position: absolute;
   top: 0px;
@@ -28,7 +28,7 @@ html {
   animation: sunrise 10s infinite;
 }
 
-#rainbow {  
+#rainbow {
   height: 100px;
   position: absolute;
   top: 60%;
@@ -36,7 +36,7 @@ html {
   animation: fade 10s infinite;
 }
 
-#cloud {  
+#cloud {
   height: 100px;
   position: absolute;
   top: 30%;
@@ -44,7 +44,7 @@ html {
   animation: leftright 10s infinite;
 }
 
-#helicopter {  
+#helicopter {
   height: 100px;
   position: absolute;
   top: 100px;
@@ -60,7 +60,7 @@ html {
   background: blue;
 }
 
-#boot {  
+#boot {
   height: 100px;
   position: absolute;
   top: 100px;

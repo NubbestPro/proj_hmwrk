@@ -41,7 +41,7 @@ body {
   background: linear-gradient(to bottom left, white,yellow,tomato);
   border: 10px dashed tomato;
   outline: 4px solid tomato;
-  outline-offset: 2px; 
+  outline-offset: 2px;
 }
 
 #firetext{
@@ -58,7 +58,7 @@ body {
   background: linear-gradient(to right, white,lightblue);
   border: 10px dashed blue;
   outline: 4px solid blue;
-  outline-offset: 2px; 
+  outline-offset: 2px;
 }
 
 #bluetext{
@@ -75,7 +75,7 @@ body {
   background: linear-gradient(to right, white,lightgreen);
   border: 10px dashed green;
   outline: 4px solid green;
-  outline-offset: 2px; 
+  outline-offset: 2px;
 }
 
 #greentext{
@@ -92,7 +92,7 @@ body {
   background: linear-gradient(to right, white,grey);
   border: 10px dashed purple;
   outline: 4px solid purple;
-  outline-offset: 2px; 
+  outline-offset: 2px;
 }
 
 #purpletext{
