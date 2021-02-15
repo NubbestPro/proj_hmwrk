@@ -25,7 +25,7 @@ SECRET_KEY = '2d+7122w^j3*6-p$vdl*m752#7)yia@pxul4)o%r8_nb+330)8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['NubbestPro1.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'app03',
+    'app3',
 ]
 
 MIDDLEWARE = [
